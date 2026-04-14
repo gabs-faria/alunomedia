@@ -1,0 +1,26 @@
+ALUNOMEDIA - HELP RAPIDO
+
+Requisitos:
+- Ter o .NET SDK instalado (versão 6 ou superior).
+
+1) Abrir a pasta do projeto no terminal
+cd "C:\Users\teste\OneDrive\Área de Trabalho\alunomedia"
+
+2) Verificar se o dotnet esta instalado
+dotnet --version
+
+3) Compilar o programa
+dotnet build
+
+4) Executar o programa
+dotnet run
+
+Como usar o menu:
+- Digite 1 para ler dados e calcular media.
+- Digite 2 para exibir boletim.
+- Digite 3 para exibir historico.
+- Digite 0 para sair.
+
+Se aparecer erro de comando nao reconhecido:
+- Instale o .NET SDK em: https://dotnet.microsoft.com/download
+- Feche e abra o terminal novamente.

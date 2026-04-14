@@ -1,0 +1,15 @@
+C:\Users\teste\OneDrive\Área de Trabalho\alunomedia\bin\Debug\net6.0\alunomedia.exe
+C:\Users\teste\OneDrive\Área de Trabalho\alunomedia\bin\Debug\net6.0\alunomedia.deps.json
+C:\Users\teste\OneDrive\Área de Trabalho\alunomedia\bin\Debug\net6.0\alunomedia.runtimeconfig.json
+C:\Users\teste\OneDrive\Área de Trabalho\alunomedia\bin\Debug\net6.0\alunomedia.dll
+C:\Users\teste\OneDrive\Área de Trabalho\alunomedia\bin\Debug\net6.0\alunomedia.pdb
+C:\Users\teste\OneDrive\Área de Trabalho\alunomedia\obj\Debug\net6.0\alunomedia.csproj.AssemblyReference.cache
+C:\Users\teste\OneDrive\Área de Trabalho\alunomedia\obj\Debug\net6.0\alunomedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teste\OneDrive\Área de Trabalho\alunomedia\obj\Debug\net6.0\alunomedia.AssemblyInfoInputs.cache
+C:\Users\teste\OneDrive\Área de Trabalho\alunomedia\obj\Debug\net6.0\alunomedia.AssemblyInfo.cs
+C:\Users\teste\OneDrive\Área de Trabalho\alunomedia\obj\Debug\net6.0\alunomedia.csproj.CoreCompileInputs.cache
+C:\Users\teste\OneDrive\Área de Trabalho\alunomedia\obj\Debug\net6.0\alunomedia.dll
+C:\Users\teste\OneDrive\Área de Trabalho\alunomedia\obj\Debug\net6.0\refint\alunomedia.dll
+C:\Users\teste\OneDrive\Área de Trabalho\alunomedia\obj\Debug\net6.0\alunomedia.pdb
+C:\Users\teste\OneDrive\Área de Trabalho\alunomedia\obj\Debug\net6.0\alunomedia.genruntimeconfig.cache
+C:\Users\teste\OneDrive\Área de Trabalho\alunomedia\obj\Debug\net6.0\ref\alunomedia.dll
